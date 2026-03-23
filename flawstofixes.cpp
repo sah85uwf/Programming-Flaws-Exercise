@@ -1,3 +1,12 @@
+/** 
+COP 4078 Exercise: Programming Flaws  
+File Name: flawstofixes.cpp 
+The flawstofixes class takes two common coding flaws
+and corrects them using secure practices. 
+@author Sophia Herrmann 
+@version 1.0 
+*/
+
 #include <iostream>
 #include <string>
 #include <limits>
